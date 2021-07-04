@@ -134,7 +134,7 @@ considered Bolstering. Bolstering costs an action, just like attacking.
 *Describe how you bolster yourself or an ally* &#8594; Give the target one
 Advantage.
 
-For more information, see the [Advantage section](../rolling_dice.md).
+For more information, see the [Advantage section](rolling_dice.md#advantage).
 
 You can bolster with any stat as long as it is logical to do so, but how you
 bolster might affect the range. Note that Bolstering is a mechanical benefit to

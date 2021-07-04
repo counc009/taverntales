@@ -205,13 +205,14 @@ should start with.
 First, choose a weapon. Weapons in Tavern Tales can be just about anything,
 from a sword and buckler or a mace to a holy symbol, a spellbook, or a pair of
 six-shooters. Full weapon guidelines are
-[here](../resources/weapon_guidelines.md), click here. Remember that all
-weapons and armor can be flavored in any way you see fit.
+[here](../resources/weapon_guidelines.md). Remember that all weapons and armor
+can be flavored in any way you see fit.
 
 Alternately, you may choose to fight unarmed. To do so, you must take the Trait
 for unarmed ranged or melee combat&endash;"Power Within" in
-[Arcane](../themes/arcane.md) and "Thorough Training" in [Martial
-Arts](../themes/martial_arts.md), respectively.
+[Arcane](../themes/arcane.md#power-within--passive) and "Thorough Training" in
+[Martial Arts](../themes/martial_arts.md#thorough-training--passive),
+respectively.
 
 If you chose a weapon, you may also choose three of the following. If you took
 one of the Traits, pick four. You may pick the same thing multiple times.

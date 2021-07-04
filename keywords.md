@@ -1,12 +1,12 @@
 # Keywords
-* **[Accurate](resources/weapon_guidelines.md):** The base damage of your ranged
-  attacks is d8 instead of d6 (does not affect melee attacks).
+* **[Accurate](resources/weapon_guidelines.md#accurate):** The base damage of
+  your ranged attacks is d8 instead of d6 (does not affect melee attacks).
 * **Authority:** You are an expert on a certain topic. Whenever you encounter
   something that relates to that topic, you can declare a fact about it. If the
   GM agrees that your fact is reasonable, it becomes true. If the GM doesn't
   think your fact is reasonable, they must work with you so that you can
   declare a different fact.
-* **[Binding](resources/weapon_guidelines.md):** Increase your rolls to
+* **[Binding](resources/weapon_guidelines.md#binding):** Increase your rolls to
   maintain grapples.
 * **Blast:** A blast affects the targeted space and all adjacent spaces.
 * **Bleed:** A bleeding creature takes one-tenth damage on each of its turns,
@@ -20,17 +20,19 @@
   other rolls that are rely on sight.
 * **Buff:** A buff is any temporary boost to your combat capabilities.
   Advantage doesn't count as a buff.
-* **[Cleansing](resources/weapon_guidelines.md):** When you spend advantage and
-  bolster, remove 1 debuff from yourself or a visible ally.
-* **[Close](rules/spaces_and_movement):** A close distance extends to the size
-  to a room (relative to your size), or 5 spaces on a battlegrid.
+* **[Cleansing](resources/weapon_guidelines.md#cleansing):** When you spend
+  advantage and bolster, remove 1 debuff from yourself or a visible ally.
+* **[Close](rules/spaces_and_movement.md#movement-and-speed):** A close
+  distance extends to the size to a room (relative to your size), or 5 spaces
+  on a battlegrid.
 * **Cone:** A cone affects everything in a 90 degree arc in front of you out to
   a near distance (3 spaces on a battlegrid).
-* **[Creative License](rules/additional_rules.md):** You temporarily take
-  control of the story while you exercise your creative license.
+* **[Creative License](rules/additional_rules.md#creative-license):** You
+  temporarily take control of the story while you exercise your creative
+  license.
 * **Debuff:** A debuff is any temporary penalty to your combat capabilities.
   Damage doesn't count as a debuff.
-* **[Defensive](resources/weapon_guidelines.md):** You have +2 block.
+* **[Defensive](resources/weapon_guidelines.md#defensive):** You have +2 block.
 * **Defy:** If you would be affected by something that you defy, you instead
   gain 1 advantage. For example, suppose that you defy terror. If something
   would terrify you, you aren't terrified and you instead gain 1 advantage. If
@@ -39,8 +41,8 @@
   defy slow.
 * **Disarm:** You send an item that the target is holding clattering a close
   distance away. You or an ally along the item's path can catch the item.
-* **[Disarming](resources/weapon_guidelines.md):** When you spend advantage and
-  deal damage, disarm the target.
+* **[Disarming](resources/weapon_guidelines.md#disarming):** When you spend
+  advantage and deal damage, disarm the target.
 * **Disease:** A disease is an illness. Diseases cannot be removed by things
   that remove debuffs unless the effect specifically states that it removes
   diseases.
@@ -49,46 +51,47 @@
   attack, or bolster you. You can phase through most materials like a ghost,
   but you may be unable to pass through some magical barriers or spiritual
   wards.
-* **[Far](resources/spaces_and_movement.md):** A far distance extends to the
-  size of several buildings (relative to your size), or 20 spaces on a
-  battlegrid.
+* **[Far](resources/spaces_and_movement.md#movement-and-speed):** A far
+  distance extends to the size of several buildings (relative to your size), or
+  20 spaces on a battlegrid.
 * **Fly**: You can fly, maneuvering about as well as a bird in flight. You have
   to continue moving in order to stay aloft. Your movement distance is the same
   while flying, so things that increase or decrease your movement similarly
   affect your flying speed. You fall if you lose control or consciousness.
-* **[Gigantic](resources/spaces_and_movement.md):** A gigantic creature is
-  larger than a two-story mansion. It occupies a 50-foot area or larger.
+* **[Gigantic](resources/spaces_and_movement.md#spaces-and-size):** A gigantic
+  creature is larger than a two-story mansion. It occupies a 50-foot area or
+  larger.
 * **Glide:** You can glide through the air. You gradually lose altitude while
   gliding (generally 1 space per turn). You can't gain altitude from gliding
   unless there is a strong updraft. You have to continue moving in order to
   stay aloft. Your movement distance is the same while gliding, so things that
   increase or decrease your movement similarly affect your gliding speed. You
   fall if you lose control or consciousness.
-* **[Grapple](rules/combat.md):** You can roll -1 damage die (possibly bringing
-  you down to 0d8+stat damage) on a successful melee attack to grapple the
-  target. The two of you can't be physically separated until the grapple ends.
-  If the two of you are about the same size, either of you can move at 1
-  distance step lower (half speed) and drag the other behind you. If one is
-  significantly larger than the other, the larger creature can move normally
-  and drag the smaller creature behind it. Unwilling participants in a grapple
-  can make one attempt on each of their turns to break free (which doesn't cost
-  an action) by winning an opposed roll.
+* **[Grapple](rules/combat.md#grappling):** You can roll -1 damage die
+  (possibly bringing you down to 0d8+stat damage) on a successful melee attack
+  to grapple the target. The two of you can't be physically separated until the
+  grapple ends. If the two of you are about the same size, either of you can
+  move at 1 distance step lower (half speed) and drag the other behind you. If
+  one is significantly larger than the other, the larger creature can move
+  normally and drag the smaller creature behind it. Unwilling participants in a
+  grapple can make one attempt on each of their turns to break free (which
+  doesn't cost an action) by winning an opposed roll.
 * **Halt:** A halted creature is immobile and can't move to other spaces. This
   doesn't affect the creature's ability to move its body parts (it can still
   swing a sword, for example.
-* **[Huge](rules/spaces_and_movement.md):** A huge creature is approximately
-  the size of a house. It occupies a 20-foot area.
-* **[Hurry](rules/spaces_and_movement.md):** When you start your turn, you can
-  announce that you hurry. On that turn, you decrease all rolls you make and
-  the distance you can move goes up 1 step, which doubles the distance you can
-  travel. For example, the distance you can move might increase from Close (5
-  spaces) to Mid-range (10 spaces).
+* **[Huge](rules/spaces_and_movement.md#spaces-and-size):** A huge creature is
+  approximately the size of a house. It occupies a 20-foot area.
+* **[Hurry](rules/spaces_and_movement.md#hurrying):** When you start your turn,
+  you can announce that you hurry. On that turn, you decrease all rolls you
+  make and the distance you can move goes up 1 step, which doubles the distance
+  you can travel. For example, the distance you can move might increase from
+  Close (5 spaces) to Mid-range (10 spaces).
 * **Lair:** A lair is an area that serves as your dwelling. You can claim an
   uninhabited area as your lair after living in it for about a day, which
   causes you to give up your claim to the old lair. A lair can be as small as a
   single room or as large as a fortress or cavern complex.
-* **[Large](rules/spaces_and_movement.md):** A large creature is about 2-3
-  times the size of a human. It occupies a 10-foot area.
+* **[Large](rules/spaces_and_movement.md#spaces-and-size):** A large creature
+  is about 2-3 times the size of a human. It occupies a 10-foot area.
 * **Line:** A line includes every square in a straight line out to a close
   distance. Lines are 5 spaces long and 1 space wide.
 * **Maim:** You inflict a debilitating wound (break bones, sever an arm, gouge
@@ -101,13 +104,14 @@
   - Can't use an appendage
   - Amputated body part
   - Decrease a certain type of roll.
-* **[Medium](rules/spaces_and_movement.md):** A medium creature is
-  approximately the size of a human. It occupies a 5-foot area.
-* **[Melee](resources/weapon_guidelines.md):** When you make a melee attack
-  with a weapon that doesn't have the melee keyword, roll -1 damage die
+* **[Medium](rules/spaces_and_movement.md#spaces-and-movement):** A medium
+  creature is approximately the size of a human. It occupies a 5-foot area.
+* **[Melee](resources/weapon_guidelines.md#melee):** When you make a melee
+  attack with a weapon that doesn't have the melee keyword, roll -1 damage die
   (possibly bringing you down to 0d8+stat damage).
-* **[Midrange](rules/spaces_and_movement.md):** A midrange distance extends to
-  the size of a building (relative to your size), or 10 spaces on a battlegrid.
+* **[Midrange](rules/spaces_and_movement.md#movement-and-speed):** A midrange
+  distance extends to the size of a building (relative to your size), or 10
+  spaces on a battlegrid.
 * **Minion:** A minion is a non-player character who willingly obeys you. You
   can gain a minion through virtually any means (you hire a mercenary, you
   convince somebody to help you for several weeks, a soldier is required to
@@ -119,24 +123,25 @@
   that his mount can move. A rider can also give up his action to use one of
   his mount's actions. Anything that affects the rider also affects the
   mount&ndash;when one takes a buff, debuff, or damage, the other does as well.
-* **[Near](rules/spaces_and_movement.md):** A near distance extends several
-  steps (relative to your size), or 3 spaces on a battlegrid.
+* **[Near](rules/spaces_and_movement.md#movement-and-speed):** A near distance
+  extends several steps (relative to your size), or 3 spaces on a battlegrid.
 * **One-tenth:** This is one-tenth of a creature's maximum life. To determine
   that value, remove the right-most number from the creature's maximum life.
   For example, one-tenth of 149 maximum life is 14, and one-tenth of 55 maximum
   life is 5.
-* **[Piercing](resources/weapon_guidelines.md):** When you spend advantage to
-  attack, the attack ignores block.
-* **[Ranged](resources/weapon_guidelines.md):** When you make a ranged attack
-  with a weapon that doesn't have the ranged keyword, roll -1 damage die
+* **[Piercing](resources/weapon_guidelines.md#piercing):** When you spend
+  advantage to attack, the attack ignores block.
+* **[Ranged](resources/weapon_guidelines.md#ranged):** When you make a ranged
+  attack with a weapon that doesn't have the ranged keyword, roll -1 damage die
   (possibly bringing you down to 0d6+stat damage).
-* **[Reach](resources/weapon_guidelines.md):** Your melee attacks can reach
-  near targets. Your ranged attacks can reach targets out to a far distance.
+* **[Reach](resources/weapon_guidelines.md#reach):** Your melee attacks can
+  reach near targets. Your ranged attacks can reach targets out to a far
+  distance.
 * **Regeneration:** A regenerating creature gradually heals life at a rate of about
   1 life every half hour (round up to an even 50 life per day). They also
   gradually regrow lost limbs and repair wounds caused by the maim effect.
-* **[Rending](resources/weapon_guidelines.md):** When you spend advantage and
-  deal damage, inflict bleed on the target.
+* **[Rending](resources/weapon_guidelines.md#rending):** When you spend
+  advantage and deal damage, inflict bleed on the target.
 * **Resisting:** When a creature is affected by something with the resisting
   keyword, it resists that effect for the next day or so. It essentially
   becomes immune to the effect for a brief time. Creatures lose their
@@ -160,9 +165,9 @@
   Restoring shattered block is typically a slow action, and entails whatever is
   logical (repairing armor, recasting defensive wards, healing wounds so that
   protective scales reform, etc).
-* **[Staggering](resources/weapon_guidelines.md):** When you spend advantage
-  and deal damage, knock the target back a near distance (assuming you can
-  logically do so).
+* **[Staggering](resources/weapon_guidelines.md#staggering):** When you spend
+  advantage and deal damage, knock the target back a near distance (assuming
+  you can logically do so).
 * **Stuck:** Something is limiting your moment. Any of your present foes can
   spend your stuck to end your movement (before or during your movement).
 * **Shrine:** A shrine is structure that serves as a divine conduit. Each
@@ -177,8 +182,8 @@
   distance you can travel. For example, the distance you can move might fall
   from Close (5 spaces) to Near (3 spaces). If you already move a Near distance
   and you are slowed, you can't move at all.
-* **[Small](rules/spaces_and_movement.md):** A small creature is approximately
-  the size of a human child. It occupies a 3-foot area.
+* **[Small](rules/spaces_and_movement.md#spaces-and-size):** A small creature
+  is approximately the size of a human child. It occupies a 3-foot area.
 * **Soak:** Soak counts as life with a few exceptions: soak can't be healed, it
   wears off after about 1 minute, and you always lose soak before losing life.
   Soak can exceed your maximum life, but you can only have one source of soak
@@ -202,8 +207,8 @@
   path in order to get as far away as possible from the thing that it fears.
   While terrified, it can't willingly move closer to the thing that it fears or
   attack it.
-* **[Tiny](rules/spaces_and_movement.md):** A tiny creature is the size of a
-  house cat or smaller. It occupies a 1-foot area or less.
+* **[Tiny](rules/spaces_and_movement.md#spaces-and-size):** A tiny creature is
+  the size of a house cat or smaller. It occupies a 1-foot area or less.
 * **Wall:** A wall is some sort of barrier. A wall can be any number of spaces
   long. By default, walls are 1 space high. Walls exist in the border between
   spaces. They don't have to form a straight line and they can't form a loop.

@@ -109,9 +109,10 @@ attack because you don't have the melee or ranged weapon keywords. However,
 players can get around this restriction. Some traits, items, and effects read:
 
 * Your body counts as a weapon, and your weapons have the melee keyword for
-* free. ([Thorough Training, Martial Arts](../themes/martial_arts.md))
+  free. ([Thorough Training, Martial
+  Arts](../themes/martial_arts.md#thorough-training--passive))
 * Your body counts as a weapon, and your weapons have the ranged keyword for
-  free. ([Power Within, Arcane](../themes/arcane.md))
+  free. ([Power Within, Arcane](../themes/arcane.md#power-within--passive))
 
 If you have one of these effects, then you are able to add the default 2 weapon
 keywords to your body (which now counts as a weapon). For example, suppose a
