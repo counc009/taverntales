@@ -51,14 +51,14 @@
   attack, or bolster you. You can phase through most materials like a ghost,
   but you may be unable to pass through some magical barriers or spiritual
   wards.
-* **[Far](resources/spaces_and_movement.md#movement-and-speed):** A far
+* **[Far](rules/spaces_and_movement.md#movement-and-speed):** A far
   distance extends to the size of several buildings (relative to your size), or
   20 spaces on a battlegrid.
 * **Fly**: You can fly, maneuvering about as well as a bird in flight. You have
   to continue moving in order to stay aloft. Your movement distance is the same
   while flying, so things that increase or decrease your movement similarly
   affect your flying speed. You fall if you lose control or consciousness.
-* **[Gigantic](resources/spaces_and_movement.md#spaces-and-size):** A gigantic
+* **[Gigantic](rules/spaces_and_movement.md#spaces-and-size):** A gigantic
   creature is larger than a two-story mansion. It occupies a 50-foot area or
   larger.
 * **Glide:** You can glide through the air. You gradually lose altitude while
@@ -104,7 +104,7 @@
   - Can't use an appendage
   - Amputated body part
   - Decrease a certain type of roll.
-* **[Medium](rules/spaces_and_movement.md#spaces-and-movement):** A medium
+* **[Medium](rules/spaces_and_movement.md#spaces-and-size):** A medium
   creature is approximately the size of a human. It occupies a 5-foot area.
 * **[Melee](resources/weapon_guidelines.md#melee):** When you make a melee
   attack with a weapon that doesn't have the melee keyword, roll -1 damage die
