@@ -20,7 +20,7 @@ The phrase "Doesn't stack" means that the corresponding effect doesn't stack
 with itself. The effect will stack with other effects, even effects that also
 read, "Doesn't stack."
 
-## Creating License
+## Creative License
 Every person playing the game (both the players and the GM) have the privilege
 of controlling certain aspects of the game world. The GM gets the most control:
 they can control the weather, how the monsters behave, what the rogue discovers
