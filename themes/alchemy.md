@@ -2,7 +2,7 @@
 ## Combat
 ### Brew Ooze &bull; Slow Action
 *Describe your brewing process* &#8594; You brew a bottled ooze. (See
-[Bestiary](../resources/bestiary.md))
+[Bestiary](../resources/bestiary))
  
 ### Soothing Mixture &bull; Slow Action
 *Describe your brewing process* &#8594; You brew a healing potion or panacea.

@@ -222,4 +222,4 @@ These actions can be taken instantaneously, even when it isn't your turn.
 You can move on your turn in addition to an action. Traits marked "Move"
 replace your movement when used, rather than adding to it.
 
-For more information, see [Spaces and Movement](spaces_and_movement.md).
+For more information, see [Spaces and Movement](spaces_and_movement).

@@ -45,7 +45,7 @@ select those options. A player might instead opt for leadership-based keywords
 keyword with all of his weapons, then the player might opt for a more offensive
 combination (disarming and reach, perhaps).
 
-## Weapon KeywordS
+## Weapon Keywords
 ### Melee
 When you make a melee attack with a weapon that doesn't have the melee keyword,
 roll -1 damage die (possibly bringing you down to 0d8+stat damage).
@@ -110,9 +110,9 @@ players can get around this restriction. Some traits, items, and effects read:
 
 * Your body counts as a weapon, and your weapons have the melee keyword for
   free. ([Thorough Training, Martial
-  Arts](../themes/martial_arts.md#thorough-training--passive))
+  Arts](../themes/martial_arts#thorough-training--passive))
 * Your body counts as a weapon, and your weapons have the ranged keyword for
-  free. ([Power Within, Arcane](../themes/arcane.md#power-within--passive))
+  free. ([Power Within, Arcane](../themes/arcane#power-within--passive))
 
 If you have one of these effects, then you are able to add the default 2 weapon
 keywords to your body (which now counts as a weapon). For example, suppose a

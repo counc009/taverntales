@@ -40,7 +40,7 @@ bolsters.
  
 ### Master of Arms &bull; Passive
 You are immune to disable.You have 2 additional weapon keywords (refer to the
-[Weapon Guidelines](../resources/weapon_guidelines.md)).
+[Weapon Guidelines](../resources/weapon_guidelines)).
  
 ### Perfect Defense &bull; Interrupt
 Once each combat, at any point, completely ignore all negative effects of an

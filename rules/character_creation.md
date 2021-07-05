@@ -79,7 +79,7 @@ Whenever you make a 3d20 roll, you assign the corresponding bonus or penalty
 from that stat. For example, a character has +3 brawn, +2 finesse, +1 mind, and
 -1 spirit. They want to climb a rock wall, which the GM decides is a brawn
 roll. The player rolls 3d20 and adds +3 to their primary die to determine the
-final result (see [Rolling Dice](rolling_dice.md) for more information).
+final result (see [Rolling Dice](rolling_dice) for more information).
 
 ### Brawn
 Brawn is a measure of physical fitness, might, intimidation factor,
@@ -205,13 +205,13 @@ should start with.
 First, choose a weapon. Weapons in Tavern Tales can be just about anything,
 from a sword and buckler or a mace to a holy symbol, a spellbook, or a pair of
 six-shooters. Full weapon guidelines are
-[here](../resources/weapon_guidelines.md). Remember that all weapons and armor
+[here](../resources/weapon_guidelines). Remember that all weapons and armor
 can be flavored in any way you see fit.
 
 Alternately, you may choose to fight unarmed. To do so, you must take the Trait
 for unarmed ranged or melee combat&endash;"Power Within" in
-[Arcane](../themes/arcane.md#power-within--passive) and "Thorough Training" in
-[Martial Arts](../themes/martial_arts.md#thorough-training--passive),
+[Arcane](../themes/arcane#power-within--passive) and "Thorough Training" in
+[Martial Arts](../themes/martial_arts#thorough-training--passive),
 respectively.
 
 If you chose a weapon, you may also choose three of the following. If you took
@@ -233,7 +233,7 @@ one of the Traits, pick four. You may pick the same thing multiple times.
   cloths, and a glass cutter.
 * A trapmaker's kit, with enough supplies to construct three traps.
 * A disguise kit, usable three times.
-* Five blast stones (See [Magic Items](../resources/magic_items.md))
+* Five blast stones (See [Magic Items](../resources/magic_items))
 
 
 This list should not be considered exhaustive. If you would like to begin the

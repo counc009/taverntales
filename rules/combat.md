@@ -8,7 +8,7 @@ is successful, you hit and deal damage to your target. When you roll damage,
 you add whatever stat modifier you used to make the attack. For example, a
 creature with brawn +3 makes a brawn attack and rolls 3d20 +3 to see if it
 hits. If it does, it deals +3 extra damage. Weapons can also affect attacks
-(see the [Weapon Guidelines](../resources/weapon_guidelines.md) section).
+(see the [Weapon Guidelines](../resources/weapon_guidelines) section).
 
 You can attack with any stat.
 
@@ -134,7 +134,7 @@ considered Bolstering. Bolstering costs an action, just like attacking.
 *Describe how you bolster yourself or an ally* &#8594; Give the target one
 Advantage.
 
-For more information, see the [Advantage section](rolling_dice.md#advantage).
+For more information, see the [Advantage section](rolling_dice#advantage).
 
 You can bolster with any stat as long as it is logical to do so, but how you
 bolster might affect the range. Note that Bolstering is a mechanical benefit to
