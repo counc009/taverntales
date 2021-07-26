@@ -1,5 +1,4 @@
 gems: jekyll-seo-tag
 title: Tavern Tales RPG
 show_downloads: false
-remote_theme: "dracula/gh-pages"
-show_headers: false
+theme: cayman
