@@ -2,4 +2,7 @@ gems: jekyll-seo-tag
 # remote_theme: lewismiddleton/cayman-dark
 # theme: jekyll-theme-midnight
 remote_theme: dracula/gh-pages
+show_downloads: false
+show_header: false
+
 title: Tavern Tales RPG
