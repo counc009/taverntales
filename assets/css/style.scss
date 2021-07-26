@@ -2,3 +2,9 @@
 ---
 
 @import "jekyll-theme-cayman";
+
+// In my markdown files, the h1's always match the page title, so only show them
+// in the page header
+h1 {
+  display: none;
+}
