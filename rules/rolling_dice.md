@@ -58,8 +58,9 @@ have spirit -1 and roll an 8, your final result is 7 (8 - 1).
 
 ## Step Four: Check for Success
 Compare your roll result against the following chart:
+
 |   1-4    |   5-8   |  9-12   |  13-16  |   17-20   |
-| :------: | :-----: | :-----: | :-----: | :-------: |
+|:--------:|:-------:|:-------:|:-------:|:---------:|
 | Very Bad |   Bad   |  Mixed  |  Good   | Very Good |
 
 The chart contains 5 tiers. In general, higher tiers are better than lower
