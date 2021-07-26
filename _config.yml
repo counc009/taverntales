@@ -4,5 +4,6 @@ gems: jekyll-seo-tag
 remote_theme: dracula/gh-pages
 show_downloads: false
 show_header: false
+colorspace: orange
 
 title: Tavern Tales RPG
