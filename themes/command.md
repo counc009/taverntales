@@ -76,7 +76,7 @@ have one such companion at a time.
 *Describe how you sabotage an organization* &#8594; Gain creative license to
 create discord within the organization.
  
-## Glorious Leader &bull; Passive
+### Glorious Leader &bull; Passive
 Increase all rolls you make to muster forces, command troops, and lead.
  
 ### Initiation Vows &bull; Passive
