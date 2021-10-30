@@ -109,5 +109,5 @@ can hear each other's thoughts, you use the possessed creature's attributes
 instead of your own (you retain access to this trait), and you take the same
 damage that the possessed body takes. When the possession ends, you reappear in
 an adjacent space. The possession ends when it should logically end (you enter
-hallowed ground, someone performs an exorcism, the willingly leave the host,
+hallowed ground, someone performs an exorcism, you willingly leave the host,
 etc).
