@@ -1,6 +1,6 @@
 # Bestiary
-Monster creation in Tavern Tales follows this basic formula: Size + Difficulty
-+ Identity
+Monster creation in Tavern Tales follows this basic formula: **Size +
+Difficulty + Identity**
 
 ## Size
 Size determines how big the monster is. Ultimately, it's up to you to decide
