@@ -369,7 +369,7 @@ three important enchantments on the bow. With these enchantments woven, Hewl
 bid farewell to his new friend and returned to Ocean's Hollow to complete his
 quest.
 
-**Properties:** The first enchantmentallows the bow to shrink down to any size
+**Properties:** The first enchantment allows the bow to shrink down to any size
 so that Hewl could restring it more easily. Information on the second
 enchantment has been lost, except that it once saved Hewl's life. The third
 enchantment transforms the bow into a seaworthy ship large enough to transport
