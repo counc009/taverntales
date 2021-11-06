@@ -24,7 +24,7 @@ until you become immune to damage. Stacks.
 * **You're Next!:** Terrify the target. Resisting.
  
 ### SMASH! &bull; Action
-*Describe how you make a brutal attack* &#8495; Reduce the target's block to 0
+*Describe how you make a brutal attack* &#8594; Reduce the target's block to 0
 (this is a debuff) and destroy all of its buffs. Then, deal melee damage to it.
  
 ### Unchained, Unbroken &bull; Quick Action
