@@ -68,11 +68,11 @@ creature could be useful to you.  Pick one; you gain significant insight of how
 to gain that creature's goods or services.
 
 ### Riddle &bull; Action
-*Describe how you ask someone a difficult question or riddle* &#8594; Until can
-answer it, increase all rolls you make to persuade, advise, or manipulate them.
-They may roll once per day to solve it on their own, and gain additional rolls
-by seeking outside help (researching at a library, asking an elder or oracle,
-telling their friends and family, etc.)
+*Describe how you ask someone a difficult question or riddle* &#8594; Until
+they can answer it, increase all rolls you make to persuade, advise, or
+manipulate them.  They may roll once per day to solve it on their own, and gain
+additional rolls by seeking outside help (researching at a library, asking an
+elder or oracle, telling their friends and family, etc.)
  
 ### To the Victor &bull; Passive
 When you defeat a creature (physically or socially), select something that your
