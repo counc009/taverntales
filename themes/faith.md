@@ -105,7 +105,7 @@ your deity's dogma (you can and should invent verses, hymns, and prayers for
 this purpose).
 
 ### Zone of Honesty &bull; Action
-*Once per session, describe how you sanctify the are within a close distance*
+*Once per session, describe how you sanctify the area within a close distance*
 &#8594; No one within that space can lie. The effect fades after a few minutes.
 
 ## Guidelines for Deity Creation
