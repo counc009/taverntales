@@ -50,8 +50,8 @@ realm. You may bring creatures within a close distance with you. Work with your
 GM to determine the qualities and contents of this nonphysical realm.
  
 ### Etheric Sight &bull; Passive
-Increase all rolls you make to see things.You perfectly remember everything
-that you see.You can see extremely small and extremely distant things.
+Increase all rolls you make to see things. You perfectly remember everything
+that you see. You can see extremely small and extremely distant things.
  
 ### Foresight &bull; Action
 *Once each session, describe how you gaze into the future* &#8594; The GM tells
