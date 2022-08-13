@@ -209,7 +209,7 @@ six-shooters. Full weapon guidelines are
 can be flavored in any way you see fit.
 
 Alternately, you may choose to fight unarmed. To do so, you must take the Trait
-for unarmed ranged or melee combat&endash;"Power Within" in
+for unarmed ranged or melee combat&ndash;"Power Within" in
 [Arcane](../themes/arcane#power-within--passive) and "Thorough Training" in
 [Martial Arts](../themes/martial_arts#thorough-training--passive),
 respectively.
@@ -245,7 +245,7 @@ clothing, or other personal items.
 > Dabney decides to use a two-handed bow, though he decides not to gain
 > infinite ammunition. He chooses light armor, leaving himself with two
 > remaining options. He decides to pick up an adventurers kit, and fifty gold
-> pieces. He also describes a few other items his character has&endash;a
+> pieces. He also describes a few other items his character has&ndash;a
 > handmade necklace and a letter from an old friend. Neither will mechanically
 > impact his character, but both will help flesh them out. 
 
