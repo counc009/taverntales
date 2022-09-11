@@ -64,7 +64,7 @@ the conditions are. You can support up to 5 other people.
 Increase all rolls you make to track. You have a perfect sense of direction.
  
 ### Vigil &bull; Passive
-You are always considered to be watchful and alert, even while asleep.At any
+You are always considered to be watchful and alert, even while asleep. At any
 point, you can have the GM tell you if you are in current or impending danger.
 If you are, the GM must honestly answer one of your questions about the danger.
 &#8594; Explain how you learned about the danger.

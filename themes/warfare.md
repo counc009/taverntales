@@ -1,4 +1,4 @@
-# Warefare
+# Warfare
 ## Combat
 ### A Hundred Scars, a Hundred Lessons &bull; Passive
 After each combat, write on your character sheet the description of a new scar
