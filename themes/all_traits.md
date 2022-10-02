@@ -138,6 +138,7 @@
 ## [Gear Up](artifice#gear-up--action)
 ## [Give Orders](command#give-orders--quick-action)
 ## [Give and Take](occultism#give-and-take--interrupt)
+## [Glorious Leader](command#glorious-leader)
 ## [Glory and Splendor](dragon#glory-and-splendor--passive)
 ## [Grappler](martial_arts#grappler--passive)
 ## [Grappling Hook](artifice#grappling-hook--moveinterrupt)
